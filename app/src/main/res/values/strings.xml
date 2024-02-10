@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">QCM</string>
+    <string name="qtitle_1">QCM sur les plantes !</string>
+    <string name="qquestion_1">Combien de pétales en moyenne peut avoir une fleur de tournesol?</string>
+    <string name="qresponse1_1">5 pétales</string>
+    <string name="qresponse2_1">12 pétales</string>
+    <string name="qresponse3_1">20 pétales</string>
+    <string name="qresponse4_1">36 pétales</string>
+    <string name="qtitle_2">QCM sur les animaux !</string>
+    <string name="qquestion_2">Quelle est la durée de vie moyenne d un éléphant d Asie dans la nature?</string>
+    <string name="qresponse1_2">20 ans</string>
+    <string name="qresponse2_2">40 ans</string>
+    <string name="qresponse3_2">60 ans</string>
+    <string name="qresponse4_2">80 ans</string>
+    <string name="qtitle_3">QCM sur les Android !</string>
+    <string name="qquestion_3">Quel est le nom du robot vert qui sert de mascotte officielle à la plateforme Android?</string>
+    <string name="qresponse1_3">RoboDroid</string>
+    <string name="qresponse2_3">Bugdroid</string>
+    <string name="qresponse3_3">Andy le Robot</string>
+    <string name="qresponse4_3">AndroidBot</string>
+</resources>
